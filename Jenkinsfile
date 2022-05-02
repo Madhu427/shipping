@@ -2,4 +2,4 @@
 
 env.COMPONENT = "shipping"
 env.BUILD_LABEL = "WORKSTATION"
-java()
+immutable_java()
